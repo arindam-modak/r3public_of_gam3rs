@@ -1,2 +1,2 @@
-# R3publicOfGam3rs-
-A collection of miniclip js games
+# RepublicOfGamers
+This repo consists of all the miniclip javascript games. All the code are available for reference.Click [here]() to visit the website.
